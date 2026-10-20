@@ -1,1 +1,1 @@
-# Implementasi-6
+Kode ini mensimulasikan pemrosesan tumpukan citra satelit multispektral (Sentinel-1 dan Sentinel-2), klasifikasi menggunakan Deep Learning/Convolutional Neural Network (CNN) untuk mengidentifikasi pemicu deforestasi (seperti pertanian, pertambangan, pembalakan liar, dan kebakaran), serta evaluasi metrik akurasi (micro F1-score).
